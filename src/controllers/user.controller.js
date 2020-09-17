@@ -1,27 +1,20 @@
-const fs = require("fs")
+const User = require('../model/user.model')
 
 class userController {
     async login(req, res) {
         const { login, senha } = req.body
-        fs.readFile("src/database/user.json", "utf8", (err, data) => {
-            if (err) return res.status(404).send()
-            JSON.parse(data).map(user => {
-                if (user.login === login && user.senha === senha) {
-                    return res.status(200).send()
-                }
-            })
-            return res.status(404).send()
+        User.findOne({ login }, (err, data) => {
+            if (err) return res.status(500).send( "An error occurred while logging on, please try again later");
+            if (!data) return res.status(404).send("User not found" );
+            if(data.senha === senha ){
+                return res.status(200).send(data)
+            }
         })
     }
     async create(req, res) {
-        const { login, senha } = req.body
-        fs.readFile("src/database/user.json", (err, data) => {
-            let db = [...data]
-            db.push({ login, senha })
-            fs.writeFile("src/database/user.json", JSON.stringify(db), (err, data) => {
-                if (err) return res.status(404).send()
-                return res.status(200).send()
-            })
+       User.create(req.body, (err, data) => {
+            if (err) { return res.status(500).send("Registration failed!") };
+            return res.status(200).send(data);
         })
     }
 }

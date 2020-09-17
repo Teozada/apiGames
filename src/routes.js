@@ -4,6 +4,7 @@ const jogosController = require("./controllers/jogos.controllers")
 const userController = require("./controllers/user.controller")
 
 routes.get("/",jogosController.index)
+routes.post('/',jogosController.create)
 routes.post("/login",userController.login)
 routes.post("/register",userController.create)
 
