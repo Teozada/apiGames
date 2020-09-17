@@ -1,0 +1,98 @@
+[
+    {
+        "image": "https://i.imgur.com/2NIjTk4.png",
+        "name": "Zelda Breath of the Wild",
+        "subtitle": "Singleplayer, Action, Adventure",
+        "price": 60,
+        "plot": "No kingdom. No memories. After a 100-year slumber, Link wakes up alone in a world he no longer remembers. Now the legendary hero must explore a vast and dangerous land and regain his memories before Hyrule is lost forever. Armed only with what he can scavenge, Link sets out to find answers and the resources needed to survive.",
+        "platform": "N"
+    },
+    {
+        "image": "https://i.imgur.com/cQJtKcJ.jpg",
+        "name": "Splatoon 2",
+        "subtitle": "Third-person shooter",
+        "price": 60,
+        "plot": "Play as a new character, Agent 8, which looks like an Octoling! She wakes up on the platform of a gloomy metro station, remembering nothing ... In this huge underground world, there are 80 very suspicious-looking laboratories connected by a metro network.",
+        "platform": "N"
+    },
+    {
+        "image": "https://i.imgur.com/bEUa002.jpg",
+        "name": "Super Mario Odyssey",
+        "subtitle": "Platform, Action, Adventure",
+        "price": 60,
+        "plot": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!",
+        "platform": "N"
+    },
+    {
+        "image": "https://i.imgur.com/FvJKr7o.jpg",
+        "name": "Pokemon Sword",
+        "subtitle": "Singleplayer, RPG",
+        "price": 60,
+        "plot": "Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you’ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pokémon Zacian and Zamazenta!",
+        "platform": "N"
+      },
+    {
+        "image": "https://i.imgur.com/9bQ8WDY.jpg",
+        "name": "God Of War",
+        "subtitle": "Action, Adventure, Hack and slash",
+        "price": 25,
+        "plot": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive…And teach his son to do the same. This startling reimagining of God of War deconstructs the core elements that defined the series—satisfying combat; breathtaking scale; and a powerful narrative—and fuses them anew.",
+        "platform": "P"
+    },
+    {
+        "image": "https://i.imgur.com/gVJDKa2.jpg",
+        "name": "Persona 5 Royal",
+        "subtitle": "Singleplayer, JRPG",
+        "price": 60,
+        "plot": "After having to transfer to a high school in Tokyo, the protagonist has a strange dream. With the goal of rehabilitation looming overhead, you must save others from their distorted desires through your work as a phantom thief. After spending a memorable year bonding with people around you, what awaits...?",
+        "platform": "P"
+    },
+    {
+        "image": "https://i.imgur.com/w8mi9F0.jpg",
+        "name": "Horizon: Zero Dawn",
+        "subtitle": "Action RPG",
+        "price": 30,
+        "plot": "Horizon Zero Dawn is an action electronics in which players control Aloy, a hunter and archer, as she progresses through a post-apocalyptic world, dominated by mechanized creatures like dinosaur robots.",
+        "platform": "P"
+    },
+    {
+        "image": "https://i.imgur.com/W7lDMEP.jpg",
+        "name": "Shadow of the Colossus",
+        "subtitle": "Action, Adventure, Puzzle, Kaiju",
+        "price": 25,
+        "plot": "SHADOW OF THE COLOSSUS is a breathtaking journey through ancient lands to seek out gigantic beasts. Armed with only a sword and a bow, explore the spacious lands and unearth each Colossus, presenting a unique challenge to test your wits, determination, and skill.",
+        "platform": "P"
+    },
+    {
+        "image": "https://i.imgur.com/hXfVX09.jpg",
+        "name": "Halo 5: Guardians",
+        "subtitle": "First-person shooter",
+        "price": 20,
+        "plot": "The Halo universe is the sprawling fictional universe in which all Halo media takes place. In the 26th century, humankind has colonized hundreds of worlds in Earth's interstellar neighborhood, only to stumble upon a hostile alliance of aliens known as the Covenant.",
+        "platform": "X"
+    },
+    {
+        "image": "https://i.imgur.com/vAii8rr.jpg",
+        "name": "Forza Motorsport 6",
+        "subtitle": "Running",
+        "price": 40,
+        "plot": "Forza Motorsport 6 is relentless action in speed simulation in the most beautiful and comprehensive racing game of its generation. Collect and race with over 450 Forzavista cars, all with functional cockpits and complete damage. Complete epic races with 24 players in 26 world-famous locations.",
+        "platform": "X"
+    },
+    {
+        "image": "https://i.imgur.com/4ua7JNi.jpg",
+        "name": "Gears of War 5",
+        "subtitle": "Third person shooting",
+        "price": 40,
+        "plot": "Gears 5 is the sixth game in the Gears of War franchise. Set after the events of Gears of War 4 and Gears of War: Ascendance, the world is crumbling. The Swarm has corrupted the Coalition's robot army and is descending upon human cities.",
+        "platform": "X"
+    },
+    {
+        "image": "https://i.imgur.com/7qf17Mq.jpg",
+        "name": "Sunset Overdrive",
+        "subtitle": "Action, Adventure, Third-Person Shooter",
+        "price": 20,
+        "plot": "Sunset Overdrive takes place in 2027, in the fictional city of Sunset City. The player controls an employee of the company FizzCo, who has to eliminate OD, short for Overcharge Drinkers: humans who became mutants after consuming the energy drink produced by FizzCo.",
+        "platform": "X"
+    }
+]
